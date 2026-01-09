@@ -1,0 +1,16 @@
+# Ignore accidental root npm files
+/package-lock.json
+/node_modules/
+
+# Env files
+.env
+backend/.env
+frontend/.env
+admin/.env
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
